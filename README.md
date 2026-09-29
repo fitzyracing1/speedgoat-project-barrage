@@ -1,2 +1,5 @@
 # speedgoat-project-barrage
-Barrage plain-language clone of fitzyracing1/speedgoat-project
+
+Barrage clone of [fitzyracing1/speedgoat-project](https://github.com/fitzyracing1/speedgoat-project).
+
+Read [listing.barrage](listing.barrage).
